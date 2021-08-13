@@ -1,4 +1,11 @@
-# food-bank-locator
+<h1 align="center">Food Bank Locator</h1>
+<p align="center">
+  <b>Group Hackathon Application</b><br>
+  <b>By Aadithya, Brandon, Chris, Theo<b/>
+<p/>
+
+---
+
 The following program locates nearby food banks within a given district, address, and radius in the United Kingdom. Errors will be given if the required fields are missing. If no postal code is given, then it displays all food banks in the inputted district. If a postal code is given, it will return the 10 closest food banks to you. The information that is displayed in the GUI after choosing a food bank is the name, address, email, link to the website, and the foodbanks needed/given food.
 
 SAMPLE INPUTS (Testing Purposes)  
@@ -27,7 +34,10 @@ Basket - http://simpleicon.com/basket.html
 Globe - https://www.onlinewebfonts.com/icon/14174  
 Food Can - https://www.onlinewebfonts.com/icon/498354  
 
-
+# Images 📷
+###### Main Menu
 ![Main Menu](images/mainmenu.PNG)
+###### Select Food Bank
 ![Select a food bank](images/foodbankselect.PNG)
+###### Food Bank Information
 ![View the food bank's information](images/foodbankinfo.PNG)
